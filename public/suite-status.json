@@ -37,6 +37,6 @@
     { "id": "35", "status": "leased" },
     { "id": "36", "status": "leased" },
     { "id": "37", "status": "leased" },
-    { "id": "38", "status": "leased" }
+    { "id": "38", "status": "available" }
   ]
 }
